@@ -16,11 +16,11 @@ Infraestructura integral para centralizar y automatizar la gestión académica e
 - 🏗️ Arquitectura moderna y escalable.
 
 **Tecnologías:**
-- Next.js 15
-- TypeScript
-- PostgreSQL
-- Prisma ORM
-- Tesseract.js
+- Next.js 15  
+- TypeScript  
+- PostgreSQL  
+- Prisma ORM  
+- Tesseract.js  
 
 🔗 [Ver repositorio del proyecto](https://github.com/I2Cprogramacion/SEI)
 
@@ -45,11 +45,11 @@ Infraestructura integral para centralizar y automatizar la gestión académica e
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### IoT / Hardware
-- ESP32
-- BLE / iBeacon
-- Sensores PIR y ultrasónicos
-- Servomotores
-- Pantallas OLED SSD1306
+- ESP32  
+- BLE / iBeacon  
+- Sensores PIR y ultrasónicos  
+- Servomotores  
+- Pantallas OLED SSD1306  
 
 ### Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -71,8 +71,9 @@ Sistema con ESP32 que detecta proximidad vía BLE para control de acceso automá
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FullStyle1&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FullStyle1&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FullStyle1&show_icons=true&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FullStyle1&layout=compact&theme=radical&hide_border=true)
 
 ---
 
@@ -80,5 +81,5 @@ Sistema con ESP32 que detecta proximidad vía BLE para control de acceso automá
 
 - 📍 **Ubicación:** Chihuahua, Chih.
 - 🎓 **Formación:** TSU en Desarrollo de Software Multiplataforma (UTCH)
-- 💼 **LinkedIn:** ![Derek Enrique Siqueiros Heredia](https://www.linkedin.com/in/derek-enrique-siqueiros-heredia-46b85637a/)
+- 💼 **LinkedIn:** [Derek Enrique Siqueiros Heredia](https://www.linkedin.com/in/derek-enrique-siqueiros-heredia-46b85637a/)
 - ⭐ Si algún proyecto te sirve, ¡dale una estrella!
