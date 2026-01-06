@@ -80,5 +80,5 @@ Sistema con ESP32 que detecta proximidad vía BLE para control de acceso automá
 
 - 📍 **Ubicación:** Chihuahua, Chih.
 - 🎓 **Formación:** TSU en Desarrollo de Software Multiplataforma (UTCH)
-- 💼 **LinkedIn:** *(agrega tu enlace)*
+- 💼 **LinkedIn:** ![Derek Enrique Siqueiros Heredia](https://www.linkedin.com/in/derek-enrique-siqueiros-heredia-46b85637a/)
 - ⭐ Si algún proyecto te sirve, ¡dale una estrella!
