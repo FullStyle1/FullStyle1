@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Derek Siqueiros
+# ¡Hola! Soy Derek Siqueiros
 
 ### TSU en Desarrollo de Software Multiplataforma | Estudiante de Ingeniería en Sistemas | Full-Stack Developer
 
@@ -7,13 +7,13 @@ Recientemente concluí mi estadía profesional en el **Instituto de Innovación 
 
 ---
 
-## 🚀 Proyecto Destacado: Plataforma Digital SEI
+## Proyecto Destacado: Plataforma Digital SEI
 
 Infraestructura integral para centralizar y automatizar la gestión académica estatal.
 
-- 📉 **Impacto:** Reducción del **70% del tiempo de captura de datos** mediante automatización OCR.
-- 🧠 Centralización y validación de información académica.
-- 🏗️ Arquitectura moderna y escalable.
+- **Impacto:** Reducción del **70% del tiempo de captura de datos** mediante automatización OCR.
+- Centralización y validación de información académica.
+- Arquitectura moderna y escalable.
 
 **Tecnologías:**
 - Next.js 15  
@@ -22,11 +22,11 @@ Infraestructura integral para centralizar y automatizar la gestión académica e
 - Prisma ORM  
 - Tesseract.js  
 
-🔗 [Ver repositorio del proyecto](https://github.com/I2Cprogramacion/SEI)
+ [Ver repositorio del proyecto](https://github.com/I2Cprogramacion/SEI)
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 ### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -59,17 +59,17 @@ Infraestructura integral para centralizar y automatizar la gestión académica e
 
 ---
 
-## 📂 Otros Proyectos
+##  Otros Proyectos
 
-🔹 **Hostee**  
+**Hostee**  
 App móvil + plataforma web conectada a Firebase para controlar un robot hostess que guía clientes a su mesa.
 
-🔹 **AccessBLE**  
+**AccessBLE**  
 Sistema con ESP32 que detecta proximidad vía BLE para control de acceso automático.
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FullStyle1&show_icons=true&theme=radical&hide_border=true)
 
@@ -77,9 +77,9 @@ Sistema con ESP32 que detecta proximidad vía BLE para control de acceso automá
 
 ---
 
-## 📫 Contacto
+## Contacto
 
-- 📍 **Ubicación:** Chihuahua, Chih.
-- 🎓 **Formación:** TSU en Desarrollo de Software Multiplataforma (UTCH)
-- 💼 **LinkedIn:** [Derek Enrique Siqueiros Heredia](https://www.linkedin.com/in/derek-enrique-siqueiros-heredia-46b85637a/)
-- ⭐ Si algún proyecto te sirve, ¡dale una estrella!
+- **Ubicación:** Chihuahua, Chih.
+- **Formación:** TSU en Desarrollo de Software Multiplataforma (UTCH)
+- **LinkedIn:** [Derek Enrique Siqueiros Heredia](https://www.linkedin.com/in/derek-enrique-siqueiros-heredia-46b85637a/)
+- Si algún proyecto te sirve, ¡dale una estrella!
