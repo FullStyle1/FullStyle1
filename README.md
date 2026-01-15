@@ -68,15 +68,6 @@ App móvil + plataforma web conectada a Firebase para controlar un robot hostess
 Sistema con ESP32 que detecta proximidad vía BLE para control de acceso automático.
 
 ---
-
-## Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FullStyle1&show_icons=true&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FullStyle1&layout=compact&theme=radical&hide_border=true)
-
----
-
 ## Contacto
 
 - **Ubicación:** Chihuahua, Chih.
